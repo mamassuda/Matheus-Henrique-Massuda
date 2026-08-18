@@ -3,7 +3,7 @@
 📌 **Master's Student in Biometrics** at [@IBB-UNESP](https://github.com/IBB-UNESP)  
 🔬 Researching application of **Data Science & Machine Learning** in biological data  
 💬 Ask me about **Python, R, and Data Analysis**  
-📫 **Contact:** [LinkedIn](https://linkedin.com/in/seu-perfil) | `matheus.massuda@unesp.br`  
+📫 **Contact:** [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/matheus-henrique-massuda-0b2993256/) | `matheus.massuda@unesp.br`  
 Pronouns: **He/Him/His**
 
 ---
